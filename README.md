@@ -3,12 +3,12 @@
 ##############################################
 
 PLANETWORK-DDOS
-Created by : Hydra7
+Created by : jocker25rus
 ----------
 Dark-IT & PLANETWORK TeaM
 ##############################################
 
-#install git clone https://github.com/Hydra7/Planetwork-DDOS cd Planetwork-DDOS python2 ./pntddos.py
+#install git clone https://github.com/jocker25rus/github cd github python2 ./pntddos.py
 
 #Usage Sebelum menggunakan Tool ini sebaiknya cari dulu alamat IP dari Korban dan scan dimana port yang terbuka
 
